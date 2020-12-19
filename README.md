@@ -2,9 +2,14 @@
 ## Description
 «XML-презентации»
 ## LaTeX
-$$x=\sqrt{2}$$
-Или прямо в тексте $x=\sqrt{2}$ вставляем в одинарных долларах.
-----
+На Github уравнения не визуализируются простым способом $x=\sqrt{2}$
+Однако есть несоколько возможностей вставить уравнения:
+* Как внедрение с сайта (там внизу есть URL Encoded)
+https://latex.codecogs.com/gif.latex?e%5E%7Bi%20%5Cpi%7D%20%3D%20-1
+* Как изображение
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+* Как ссылку
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 ## TODO
 * LaTeX в README.md
 
