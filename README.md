@@ -13,6 +13,7 @@
 * LaTeX в README.md
 
 ## History
+* 01.08.2021 Тест git acppa
 * 19.12.2020 LaTeX в README.md
 * 11.12.2020  v.1.0.1   Initial Release
 * После студийной записи Вводной лекции по НЭП
