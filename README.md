@@ -21,7 +21,8 @@ XML-презентации
 - **LaTeX в README.md** На Github уравнения не визуализируются простым способом $$x=\sqrt{2}$$ Однако
 есть несоколько возможностей вставить уравнения:
 
-- Как внедрение изображением с сайта (через URL Encoded) ![equation](https://latex.codecogs.com/gif.latex?e%5E%7Bi%20%5Cpi%7D%20%3D%20-1)
+- Как внедрение изображением с сайта (через URL Encoded) 
+![equation](https://latex.codecogs.com/gif.latex?e%5E%7Bi%20%5Cpi%7D%20%3D%20-1)
 
 ## License
 
